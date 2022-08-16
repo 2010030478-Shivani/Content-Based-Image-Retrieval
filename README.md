@@ -1,2 +1,1 @@
-# Content-Based-Image-Retrieval
-The Content-based image retrieval(CBIR) is one of the new methods that extract images based on the features extracted that includes the texture, color, and shape of the image.Different feature extraction and matching techniques are used in designing a Content Based Image Retrieval/Processing system. Due to increase in image database sizes and its deployment in various applications, the need for CBIR development arose rapidly.
+
